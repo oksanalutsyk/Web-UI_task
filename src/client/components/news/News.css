@@ -1,0 +1,11 @@
+.newsCards{
+    width: 80%;
+    margin: 30px auto;
+    grid-gap: 30px;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(auto-fit, 300px);
+}
+.newsCards{
+justify-self: center;
+}

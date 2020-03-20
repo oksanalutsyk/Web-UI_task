@@ -1,0 +1,17 @@
+.fans{
+    width: 80%;
+    margin: 30px auto;
+    min-height: 50vh;
+}
+.time{
+    display: flex;
+    justify-content: space-between;
+}
+.data, .login{
+    width: 30%;
+    font-weight: 700;
+}
+.loadingBlock{
+    width: 80%;
+    margin: 30px auto;
+}

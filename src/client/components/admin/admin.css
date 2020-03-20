@@ -1,0 +1,25 @@
+.adminPanel{
+    width: 80%;
+    margin: 30px auto;
+}
+.loadingImg{
+    width: 250px;
+    height: 200px;
+    border: 1px solid black;
+    padding: 1rem;
+    margin-right: 1rem;
+}
+.loadingBlock{
+    display: flex;
+    flex-wrap: wrap;
+}
+label{
+    position: relative;
+}
+.addImg{
+    width: 200px;
+}
+.addText{
+    width: 250px;
+    margin-right: 1rem;
+}
